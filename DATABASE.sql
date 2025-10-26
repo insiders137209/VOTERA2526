@@ -54,7 +54,7 @@ VALUES
 (1, 'Pengerusi'),
 (2, 'Naib Pengerusi'), 
 (3, 'Setiausaha"),
-(4, 'Bendahari')
+(4, 'Bendahari'),
 
 INSERT INTO pengguna
 (notel, nama, katalaluan, jenis pengguna)
